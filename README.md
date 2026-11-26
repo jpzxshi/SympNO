@@ -1,5 +1,13 @@
 # SympNO
 
+**Title:** SympNO: Intrinsic structure-preserving symplectic neural operator for Hamiltonian PDEs
+
+**Authors:** Weijun Zhang, Chenyu Zeng, Jitong Zhu, Daniel Zhengyu Huang, Pengzhan Jin
+
+**Preprint:** [https://doi.org/10.5281/zenodo.24560672](https://doi.org/10.5281/zenodo.24560672)
+
+---
+
 ```text
 SympNO_code/
 ├── sympno.py
